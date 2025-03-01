@@ -17,6 +17,7 @@ smmap~=5.0.2
 mdurl~=0.1.2
 charset-normalizer~=3.4.1
 setuptools~=68.2.0
+streamlit~=1.42.2
 narwhals~=1.28.0
 pandas~=2.2.3
 pyarrow~=19.0.1
